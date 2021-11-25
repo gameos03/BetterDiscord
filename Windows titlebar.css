@@ -1,0 +1,51 @@
+.theme-dark
+{
+font-family: arial;
+font-weight: bolder;
+--background: #202020;
+--background-sec:#303030 ;
+--color: #FFF;
+}
+.platform-win .typeWindows-1za-n7
+{
+height: 0px;
+margin-top: 0;
+top: 0px;
+left: 0;
+width: 100%;
+background:transparent;
+}
+.wordmarkWindows-1v0lYD,.children-19S4PO:after
+{
+display: none;
+}
+.platform-win .winButton-iRh8-Z
+{
+position: relative;
+top: 0px;
+right: 0px;
+height: 40px;
+width: 35px;
+}
+.searchBar-3dMhjb,.winButton-iRh8-Z:hover
+{
+background-color: var(--background-sec);
+}
+.platform-win .container-1r6BKw
+{
+padding-right: 100px;
+height: 40px;
+}
+.container-1r6BKw.themed-ANHk51
+{
+background-color: var(--background);
+}
+.container-1r6BKw, .container-1r6BKw *,.winButton-iRh8-Z
+{
+color: var(--color);
+}
+.header-2V-4Sw,.clickable-25tGDB
+{
+height: 40px;
+background-color: var(--background);
+}
