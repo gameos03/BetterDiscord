@@ -1,0 +1,254 @@
+/**
+ * @name dark
+ * @author GAMEOS
+ * @version 1.0
+ * @description Dark
+ */
+:root {
+    --background-primary: var(--background-all);
+    --background-secondary:var(--background-all);
+    --background-secondary-alt:var(--background-all);
+    --background-accent: var(--background-all);
+    --background-tertiary: var(--background-all);
+    --background-floating-alt: var(--background-all);
+    --background-modifier-hover: var(--background-all-2);
+    --background-modifier-active:var(--background-all-2);
+    --background-modifier-selected: var(--background-all-2);
+    --background-modifier-accent: var(--background-all-2);
+    --background-hover: var(--background-all-2);
+    /* custom */
+    --text-color:white;
+    --background-all: #202020;
+    --background-all-2: #ff0000;
+}
+
+body{
+    font-family: Arial;
+    font-weight: bolder;
+}
+.scrollableContainer-2NUZem, .search-2oPWTC{
+    background: #00000070;
+}
+.platform-win .typeWindows-1za-n7 {
+  height: 0px;
+  position: absolute;
+  width: 100%;
+}
+.platform-win .winButton-iRh8-Z {
+  margin-top: 9px;
+  margin-right: 10px;
+}
+.platform-win .container-1r6BKw {
+  padding-right: 125px;
+  height: 35px;
+}
+.header-2V-4Sw{
+  height: 35px;
+}
+.name-1jkAdW{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.theme-dark .markup-2BOw-j pre{
+  background: #00000000;
+}
+.channelName-2YrOjO, .username-3KYl0N, .activity-2Gy-9S,
+.container-2ax-kl,.content-1o0f9g, .cozy-3raOZG 
+.timestamp-3ZCmNB,.wrapper-2jXpOf .icon-1DeIlz, 
+.side-8zPYf6 .item-PXvHYJ, .header-2RyJ0Y,.icon-2IuuZd,
+ .username-3KYl0N, .standardSidebarView-3F1I7i, 
+.standardSidebarView-3F1I7i *, .markup-2BOw-j a{
+  color: var(--text-color);
+}
+.listDefault-3ir5aS .avatarContainer-28iYmV{
+  margin-left: 0;
+}
+.tutorialContainer-2sGCg9 .listItem-GuPuDH{
+margin-top: 20px;
+}
+.name-uJV0GL{
+  font-weight: 700;
+  font-size: 16px;
+}
+.member-3-YXUe{
+  margin-left: 0;
+}
+.members-1998pB{
+  width: 200px;
+}
+.activityText-yGKsKm, .container-2ax-kl{
+  font-size: 11px;
+  font-weight: 700;
+}
+.item-26Dhrx[aria-checked=true], .item-26Dhrx,
+.accountList-33MS45, .connectionHeader-2MDqhu,
+.background-1QDuV2, .formNotice-2_hHWR{
+  background:#00000000;
+  border-radius: 0;
+  border-color: #00000000;
+}
+.sidebar-CFHs9e{
+	width:175px;
+	padding: 60px 0px 0px 20px;
+}
+.side-8zPYf6 .header-2RyJ0Y, .side-8zPYf6 .item-PXvHYJ{
+	padding-bottom: 0px;
+}
+.side-8zPYf6 .item-PXvHYJ, .channelTextArea-rNsIhG{
+	margin-bottom: 0;
+}
+.info-1VyQPT, .socialLinks-3jqNFy, 
+.flowerStarContainer-3zDVtj, .guildSeparator-33mFX6{
+   display: none;
+}
+ .header-2RyJ0Y{
+   font-size: 14px;
+   font-weight: bold;
+}
+ .theme-dark .markup-2BOw-j code{
+   background: #00000080;
+}
+.group-spacing-16 .groupStart-23k01U:hover{
+    background: none;
+}
+.content-1x5b-n{
+  padding: 0;
+  margin: 0;  
+}
+.containerDefault-3tr_sE, .containerDragAfter-Zk9oyx, 
+.containerDragBefore-1YqewQ, .containerUserOver-98-yc7{
+  padding-top: 0;
+}
+.scrollableContainer-2NUZem{
+    border-radius: 0;
+}
+.sansAttachButton-td2irx{
+  padding-left: 5px;
+}
+/**
+ * @name dark
+ * @author GAMEOS
+ * @version 1.0
+ * @description Dark
+ */
+:root {
+    --background-primary: var(--background-all);
+    --background-secondary:var(--background-all);
+    --background-secondary-alt:var(--background-all);
+    --background-accent: var(--background-all);
+    --background-tertiary: var(--background-all);
+    --background-floating-alt: var(--background-all);
+    --background-modifier-hover: var(--background-all-2);
+    --background-modifier-active:var(--background-all-2);
+    --background-modifier-selected: var(--background-all-2);
+    --background-modifier-accent: var(--background-all-2);
+    --background-hover: var(--background-all-2);
+    /* custom */
+    --text-color:white;
+    --background-all: #202020;
+    --background-all-2: #ff0000;
+}
+
+body{
+    font-family: Arial;
+    font-weight: bolder;
+}
+.scrollableContainer-2NUZem, .search-2oPWTC{
+    background: #00000070;
+}
+.platform-win .typeWindows-1za-n7 {
+  height: 0px;
+  position: absolute;
+  width: 100%;
+}
+.platform-win .winButton-iRh8-Z {
+  margin-top: 9px;
+  margin-right: 10px;
+}
+.platform-win .container-1r6BKw {
+  padding-right: 125px;
+  height: 35px;
+}
+.header-2V-4Sw{
+  height: 35px;
+}
+.name-1jkAdW{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.theme-dark .markup-2BOw-j pre{
+  background: #00000000;
+}
+.channelName-2YrOjO, .username-3KYl0N, .activity-2Gy-9S,
+.container-2ax-kl,.content-1o0f9g, .cozy-3raOZG 
+.timestamp-3ZCmNB,.wrapper-2jXpOf .icon-1DeIlz, 
+.side-8zPYf6 .item-PXvHYJ, .header-2RyJ0Y,.icon-2IuuZd,
+ .username-3KYl0N, .standardSidebarView-3F1I7i, 
+.standardSidebarView-3F1I7i *, .markup-2BOw-j a{
+  color: var(--text-color);
+}
+.listDefault-3ir5aS .avatarContainer-28iYmV{
+  margin-left: 0;
+}
+.tutorialContainer-2sGCg9 .listItem-GuPuDH{
+margin-top: 20px;
+}
+.name-uJV0GL{
+  font-weight: 700;
+  font-size: 16px;
+}
+.member-3-YXUe{
+  margin-left: 0;
+}
+.members-1998pB{
+  width: 200px;
+}
+.activityText-yGKsKm, .container-2ax-kl{
+  font-size: 11px;
+  font-weight: 700;
+}
+.item-26Dhrx[aria-checked=true], .item-26Dhrx,
+.accountList-33MS45, .connectionHeader-2MDqhu,
+.background-1QDuV2, .formNotice-2_hHWR{
+  background:#00000000;
+  border-radius: 0;
+  border-color: #00000000;
+}
+.sidebar-CFHs9e{
+	width:175px;
+	padding: 60px 0px 0px 20px;
+}
+.side-8zPYf6 .header-2RyJ0Y, .side-8zPYf6 .item-PXvHYJ{
+	padding-bottom: 0px;
+}
+.side-8zPYf6 .item-PXvHYJ, .channelTextArea-rNsIhG{
+	margin-bottom: 0;
+}
+.info-1VyQPT, .socialLinks-3jqNFy, 
+.flowerStarContainer-3zDVtj, .guildSeparator-33mFX6{
+   display: none;
+}
+ .header-2RyJ0Y{
+   font-size: 14px;
+   font-weight: bold;
+}
+ .theme-dark .markup-2BOw-j code{
+   background: #00000080;
+}
+.group-spacing-16 .groupStart-23k01U:hover{
+    background: none;
+}
+.content-1x5b-n{
+  padding: 0;
+  margin: 0;  
+}
+.containerDefault-3tr_sE, .containerDragAfter-Zk9oyx, 
+.containerDragBefore-1YqewQ, .containerUserOver-98-yc7{
+  padding-top: 0;
+}
+.scrollableContainer-2NUZem{
+    border-radius: 0;
+}
+.sansAttachButton-td2irx{
+  padding-left: 5px;
+}
