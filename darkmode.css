@@ -1,9 +1,3 @@
-/**
- * @name dark
- * @author GAMEOS
- * @version 1.0
- * @description Dark
- */
 :root {
     --background-primary: var(--background-all);
     --background-secondary:var(--background-all);
